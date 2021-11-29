@@ -1,0 +1,40 @@
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\appsettings.json
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\ChatoService.exe
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\ChatoService.deps.json
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\ChatoService.runtimeconfig.json
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\ChatoService.runtimeconfig.dev.json
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\ChatoService.dll
+E:\chato\chato-service\bin\Debug\netcoreapp3.1\ChatoService.pdb
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.csprojAssemblyReference.cache
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.AssemblyInfoInputs.cache
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.AssemblyInfo.cs
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.csproj.CoreCompileInputs.cache
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.MvcApplicationPartsAssemblyInfo.cache
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.RazorTargetAssemblyInfo.cache
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\staticwebassets\ChatoService.StaticWebAssets.Manifest.cache
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\staticwebassets\ChatoService.StaticWebAssets.xml
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.dll
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.pdb
+E:\chato\chato-service\obj\Debug\netcoreapp3.1\ChatoService.genruntimeconfig.cache
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\ChatoService.exe
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\ChatoService.deps.json
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\ChatoService.runtimeconfig.json
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\ChatoService.runtimeconfig.dev.json
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\ChatoService.dll
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\bin\Debug\netcoreapp3.1\ChatoService.pdb
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.AssemblyInfoInputs.cache
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.AssemblyInfo.cs
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.csproj.CoreCompileInputs.cache
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\staticwebassets\ChatoService.StaticWebAssets.Manifest.cache
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\staticwebassets\ChatoService.StaticWebAssets.xml
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatoService.styles.css
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.RazorTargetAssemblyInfo.cache
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.dll
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.pdb
+C:\Users\91628\Dropbox\My PC (LAPTOP-R03H2OPN)\Downloads\chato.backend.asp.net.core-main\chato.backend.asp.net.core-main\chato-service\obj\Debug\netcoreapp3.1\ChatoService.genruntimeconfig.cache
