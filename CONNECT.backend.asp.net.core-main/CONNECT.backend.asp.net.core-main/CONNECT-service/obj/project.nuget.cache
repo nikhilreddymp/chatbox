@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q22OmobpDbNwQARmOxhR0U9hPs87P3L4pHniR1WJy8wHq8b9a3f8qoKWFPRFSrieOioyacVh4eXqWVLukXkV+Q==",
+  "dgSpecHash": "5gxiPC27snX9rCjDQTMfyzUb6SbnFHVP1u3p0PSsXvHwvyqMQBGEa++9Ux3j23WGq7TOPqX1Kt+R1pMTzEj/yQ==",
   "success": true,
-  "projectFilePath": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\chato-service\\CONNECTService.csproj",
+  "projectFilePath": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\CONNECT-service\\CONNECTService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

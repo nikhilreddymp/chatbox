@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\chato-service\\CONNECTService.csproj": {}
+    "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\CONNECT-service\\CONNECTService.csproj": {}
   },
   "projects": {
-    "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\chato-service\\CONNECTService.csproj": {
+    "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\CONNECT-service\\CONNECTService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\chato-service\\CONNECTService.csproj",
+        "projectUniqueName": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\CONNECT-service\\CONNECTService.csproj",
         "projectName": "CONNECTService",
-        "projectPath": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\chato-service\\CONNECTService.csproj",
+        "projectPath": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\CONNECT-service\\CONNECTService.csproj",
         "packagesPath": "C:\\Users\\91628\\.nuget\\packages\\",
-        "outputPath": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\chato-service\\obj\\",
+        "outputPath": "R:\\campaign\\CONNECT.backend.asp.net.core-main\\CONNECT.backend.asp.net.core-main\\CONNECT-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91628\\AppData\\Roaming\\NuGet\\NuGet.Config",

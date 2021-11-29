@@ -62,6 +62,7 @@ const App = () => {
     <h2>CONNECT</h2>
     <hr className='line' />
     {
+      
       !connection ?
         <Lobby joinRoom={joinRoom} /> :
         <Chat messages={messages} sendMessage={sendMessage} closeConnection={closeConnection} users={users}/>
